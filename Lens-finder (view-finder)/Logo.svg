@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="1000" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" clip-path="url(#clip-path)">
+    <g id="Logo-2" data-name="Logo" clip-path="url(#clip-path)">
+      <g id="Camera_Lens_w_Shadow" data-name="Camera Lens w/ Shadow" transform="translate(82 63)">
+        <g id="Group_103" data-name="Group 103">
+          <g id="Group_101" data-name="Group 101" transform="translate(-75 -75)">
+            <g id="Camera_Lens" data-name="Camera Lens" transform="translate(75 75)">
+              <circle id="Ellipse_1" data-name="Ellipse 1" cx="425" cy="425" r="425" fill="#5a596b"/>
+              <circle id="Ellipse_2" data-name="Ellipse 2" cx="412.5" cy="412.5" r="412.5" transform="translate(13 13)" fill="#26262e"/>
+              <circle id="Ellipse_3" data-name="Ellipse 3" cx="370" cy="370" r="370" transform="translate(55 55)" fill="#b8b8b8"/>
+              <path id="Path_5" data-name="Path 5" d="M360,0C558.823,0,720,161.178,720,360S558.823,720,360,720,0,558.823,0,360,161.178,0,360,0Z" transform="translate(65 65)" fill="#5e5e5f"/>
+              <circle id="Ellipse_5" data-name="Ellipse 5" cx="350" cy="350" r="350" transform="translate(75 76)" fill="#b8b8b8"/>
+              <circle id="Ellipse_6" data-name="Ellipse 6" cx="330" cy="330" r="330" transform="translate(95 95)" fill="#5e5e5f"/>
+              <circle id="Ellipse_7" data-name="Ellipse 7" cx="300" cy="300" r="300" transform="translate(125 125)" fill="#22222f"/>
+              <circle id="Ellipse_8" data-name="Ellipse 8" cx="250" cy="250" r="250" transform="translate(175 175)" fill="#5e5e5f"/>
+              <circle id="Ellipse_9" data-name="Ellipse 9" cx="175" cy="175" r="175" transform="translate(250 250)" fill="#22222f"/>
+              <circle id="Ellipse_10" data-name="Ellipse 10" cx="25" cy="25" r="25" transform="translate(376 425)" fill="#fff"/>
+              <circle id="Ellipse_11" data-name="Ellipse 11" cx="60" cy="60" r="60" transform="translate(425 305)" fill="#fff"/>
+            </g>
+          </g>
+          <path id="Intersection_1" data-name="Intersection 1" d="M1060.41-1895.67h851c-.186,233.18-190.618,422.162-425.5,422.162S1060.59-1662.49,1060.41-1895.67Z" transform="translate(841.369 2799.535) rotate(-48)" fill="#1b1b1e" opacity="0.45"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

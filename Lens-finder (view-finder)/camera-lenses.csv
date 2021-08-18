@@ -1,0 +1,26 @@
+cbrand,clen,focal_leng,lens_type,subject_1,subject_2,subject_3
+Canon,Canon EF 11-24mm f/4L USM,<24mm,Ultra Wide Angle,Landscapes,Tight interior,
+Nikon,Nikon 14-24mm f/2.8G AF-S ED,<24mm,Ultra Wide Angle,Landscapes,Tight interior,
+Sony,Sony FE 12-24mm f/4 G,<24mm,Ultra Wide Angle,Landscapes,Tight interior,
+Sigma,Sigma 14mm f/1.8 DG HSM Art,<24mm,Ultra Wide Angle,Landscapes,Tight interior,
+Fuijfilm,Fujinon XF10-24mmF4 R OIS ,<24mm,Ultra Wide Angle,Landscapes,Tight interior,
+Canon,Canon EF 16-35mm f/2.8 L III USM,<35mm,Wide Angle,Full-body portraits,Architecture,Landscapes
+Nikon,Nikon 14-24mm f/2.8G AF-S ED,<35mm,Wide Angle,Full-body portraits,Architecture,Landscapes
+Sony,Sony FE 16-35mm f/2.8 GM,<35mm,Wide Angle,Full-body portraits,Architecture,Landscapes
+Sigma,Sigma 24mm f/1.4 DG HSM,<35mm,Wide Angle,Full-body portraits,Architecture,Landscapes
+Fuijfilm,Fuji XD 18mm f/2 R,<35mm,Wide Angle,Full-body portraits,Architecture,Landscapes
+Canon,Canon EF 24-70mm f/2.8L USM II,35-70mm,Normal,General purpose,Street Photography,
+Nikon,Nikon 17-55mm f/2.8G AF-S DX IF-ED,35-70mm,Normal,General purpose,Street Photography,
+Sony,Sony FE 24-70mm f/2.8 GM,35-70mm,Normal,General purpose,Street Photography,
+Sigma,Sigma 50mm f/1.4 DG HSM Art,35-70mm,Normal,General purpose,Street Photography,
+Fuijfilm,Fuji XF 35mm f/1.4R,35-70mm,Normal,General purpose,Street Photography,
+Canon,Canon EF 85mm f/1.2L II USM,>70mm,Telephoto,Headshots,Portraits,Sports
+Nikon,Nikon 70-200mm f/2.8G AF-S ED VR II,>70mm,Telephoto,Headshots,Portraits,Sports
+Sony,Sony FE 70-200mm f/2.8 GM OSS,>70mm,Telephoto,Headshots,Portraits,Sports
+Sigma,Sigma 50-100mm f/1.8 DC HSM Art,>70mm,Telephoto,Headshots,Portraits,Sports
+Fuijfilm,Fuji XF 90mm f/2 R LM WR,>70mm,Telephoto,Headshots,Portraits,Sports
+Canon,Canon EF 100mm f/2.8L IS Macro,>100mm,Macro,Macro Photography,,
+Nikon,Nikon 105mm f/2.8G IF-ED,>100mm,Macro,Macro Photography,,
+Sony,Sony FE 90mm f/2.8 Macro G OSS,>100mm,Macro,Macro Photography,,
+Sigma,Sigma 70mm f/2.8 DG Macro Art,>100mm,Macro,Macro Photography,,
+Fuijfilm,Fuji XF 60mm f/2.4 R Macro,>100mm,Macro,Macro Photography,,
